@@ -25,3 +25,12 @@
     justify-content: space-between;
     align-items: center;
 }
+
+.pagi {
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+.pagi button{
+    margin-right: 10px;
+}
