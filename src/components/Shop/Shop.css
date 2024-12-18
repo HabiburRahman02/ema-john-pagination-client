@@ -34,3 +34,8 @@
 .pagi button{
     margin-right: 10px;
 }
+
+.current{
+    background-color: green;
+    color: white;
+}
